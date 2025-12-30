@@ -271,10 +271,10 @@ body {
 
 .logo-img-wrapper {
     position: relative;
-    height: 4rem; width: 12rem;
+    height: 3.2rem; width: 9.6rem;
 }
 @media (min-width: 768px) {
-    .logo-img-wrapper { height: 5rem; width: 15rem; }
+    .logo-img-wrapper { height: 4rem; width: 12rem; }
 }
 
 .logo-img {
